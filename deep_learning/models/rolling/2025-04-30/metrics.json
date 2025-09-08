@@ -1,0 +1,5 @@
+{
+  "val_metric": 0.393939393939394,
+  "threshold_used": 0.45,
+  "threshold_mode": "fixed"
+}

@@ -1,0 +1,6 @@
+model,metric_type,class_label,precision,recall,f1,support
+LSTM,per_class,Negative,0.525,0.583333,0.552632,108.0
+LSTM,per_class,Positive,0.5,0.441176,0.46875,102.0
+LSTM,global,macro avg,0.5125,0.512255,0.510691,
+LSTM,global,weighted avg,0.512857,0.514286,0.511889,
+LSTM,global,Accuracy,,,0.514286,

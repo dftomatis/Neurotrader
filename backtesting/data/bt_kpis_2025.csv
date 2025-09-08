@@ -1,0 +1,2 @@
+start,end,n_days,n_trades,pct_days_in_mkt,equity_final,bh_final,ret_strategy,ret_buy_hold,fees_total,sharpe_252,max_drawdown
+2025-01-01,2025-08-30,242,50,0.371901,1554.53,1152.39,55.45,15.24,8.2,1.086,-29.98
