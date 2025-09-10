@@ -87,10 +87,8 @@ Los modelos entrenados (RFC, SGD calibrado, XGBoost, BiLSTM con atención, FinBE
 
 - RFC-SGD: https://huggingface.co/kyfer/NeuroTrader-RFC-SGD
 - XGBoost: https://huggingface.co/Adrilp01/XGBOOST  
-- NLP fine-tuneado: [ruta pendiente]  
+- NLP fine-tuneado: https://huggingface.co/MiguelZazu/finbert 
 - BiLSTM con atención: https://huggingface.co/kyfer/NeuroTrader-LSTM
-
----
 
 ---
 
