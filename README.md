@@ -1,6 +1,6 @@
 # Neurotrader — Sistema de Trading Algorítmico en BTC/USD
 
-![Arquitectura del modelo](.images/modelo_neurotrader.jpg)
+![Arquitectura del modelo](images/modelo_neurotrader.jpg)
 
 ## Descripción General
 
@@ -29,7 +29,7 @@ La regla de entrada establece que se realizan compras cuando la probabilidad del
 Durante el período analizado (2025), la estrategia generó un rendimiento acumulado superior al **50%**, frente al **15%** obtenido con un enfoque pasivo de *buy & hold*.  
 En términos prácticos, esto significa que el modelo fue capaz de **capturar de forma más eficiente los tramos alcistas del mercado y salir en fases bajistas**, multiplicando por más de tres el resultado del *buy & hold*.
 
-![Gráfica de estrategia vs buy & hold ](.images/modelo_neurotrader.jpg)
+![Gráfica de estrategia vs buy & hold ](images/backtesting.jpg)
 
 ---
 
