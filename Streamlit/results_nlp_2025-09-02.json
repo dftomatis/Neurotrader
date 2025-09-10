@@ -1,0 +1,10 @@
+{
+  "date": "2025-09-02",
+  "model": "NLP",
+  "probabilities": {
+    "buy": 0.3037,
+    "hold": 0.6536
+  },
+  "noticia": "Cango Inc. announced it mined 663.7 Bitcoins in August, pushing its treasury past the 5,000 BTC milestone. CEO Paul Yu stated this validates their long-term accumulation strategy and strengthens their foundation for sustainable growth.",
+  "sentiment": "positive"
+}

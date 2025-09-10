@@ -1,0 +1,13 @@
+{
+  "date": "2025-09-02",
+  "model": "LSTM",
+  "probabilities": {
+    "buy": 0.5124,
+    "hold": 0.4621
+  },
+  "indicadores": {
+    "RSI": 48.53,
+    "MACD": -61.53,
+    "Volatility": 729.56
+  }
+}

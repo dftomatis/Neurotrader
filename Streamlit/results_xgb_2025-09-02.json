@@ -1,0 +1,13 @@
+{
+  "date": "2025-09-02",
+  "model": "XGBoost",
+  "probabilities": {
+    "buy": 0.6282,
+    "hold": 0.3718
+  },
+  "indicadores": {
+    "RSI": 48.53,
+    "MACD": -61.53,
+    "Volatility": 729.56
+  }
+}
