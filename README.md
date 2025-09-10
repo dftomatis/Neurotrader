@@ -77,7 +77,7 @@ Neurotrader/
 ├── notebooks/                          # Copia de todos los notebooks para revisión
 ├── powerbi/                            # Métricas y resultados obtenidos en archivos .pbix de Power BI
 ├── Memoria_Tecnica_Neurotrader.pdf     # MoDescripcion de la memoria técnica del proyecto
-├── environment.yml                     # requerimientos para reproducir el entorno de producción
+├── environment.yml                     # Requerimientos para reproducir el entorno de producción
 └── README.md                           # Este documento
 ```
 ---
