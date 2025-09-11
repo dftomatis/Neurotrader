@@ -102,7 +102,7 @@ La demostración del modelo funcional se encuentra en la carpeta "Streamlit"
 
 ## Visualización con Power BI
 
-El reporte completo se encuentra en la carpeta [powerbi](https://github.com/dftomatis/Neurotrader/tree/main/powerbi).
+El reporte completo se encuentra en la carpeta [powerbi](https://github.com/dftomatis/Neurotrader/blob/main/powerbi/neurotrader.pbix).
 
 También puedes acceder a la versión web a través del siguiente [enlace.](https://app.powerbi.com/view?r=eyJrIjoiNjQ5MjNjNzYtYjI0Zi00MTQyLWJjYTctZTRiZjgxNGVkZmNjIiwidCI6IjA1ZWE3NGEzLTkyYzUtNGMzMS05NzhhLTkyNWMzYzc5OWNkMCIsImMiOjh9)
 
