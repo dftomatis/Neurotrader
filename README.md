@@ -1,6 +1,6 @@
 # Neurotrader — Sistema de Trading Algorítmico en BTC/USD
 
-![Arquitectura del modelo](images/modelo_neurotrader.jpg)
+![Arquitectura del modelo](images/modelo_neurotrader.png)
 
 ## Descripción General
 
@@ -97,6 +97,14 @@ Los modelos entrenados (RFC, SGD calibrado, XGBoost, BiLSTM con atención, FinBE
 ## Despliegue y demostración
 
 La demostración del modelo funcional se encuentra en la carpeta "Streamlit"
+
+---
+
+## Visualización con Power BI
+
+El reporte completo se encuentra en la carpeta [powerbi](https://github.com/dftomatis/Neurotrader/tree/main/powerbi).
+
+También puedes acceder a la versión web a través del siguiente [enlace.](https://app.powerbi.com/view?r=eyJrIjoiNjQ5MjNjNzYtYjI0Zi00MTQyLWJjYTctZTRiZjgxNGVkZmNjIiwidCI6IjA1ZWE3NGEzLTkyYzUtNGMzMS05NzhhLTkyNWMzYzc5OWNkMCIsImMiOjh9)
 
 ---
 
