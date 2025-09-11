@@ -70,6 +70,7 @@ En términos prácticos, esto significa que el modelo fue capaz de **capturar de
 
 ```markdown
 Neurotrader/
+├── Streamlit/                          # Archivos relacionados al despliegue del proyecto
 ├── backtesting/                        # Archivos relacionados al backtesting que se realizó
 ├── deeplearning/                       # Carpetas y archivos que contienen el modelo biLSTM con atención
 ├── machine_learning/                   # Carpetas y archivos que contienen el modelo SGD, RFC y XGBoost
@@ -95,7 +96,7 @@ Los modelos entrenados (RFC, SGD calibrado, XGBoost, BiLSTM con atención, FinBE
 
 ## Despliegue y demostración
 
-La demostración del modelo funcional puede vese en: 
+La demostración del modelo funcional se encuentra en la carpeta "Streamlit"
 
 ---
 
